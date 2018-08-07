@@ -84,4 +84,3 @@
   (apply + (map * (do p-list))))
 
 (dot-product ['(10 20) '(3 4)])
-
